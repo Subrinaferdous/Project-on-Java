@@ -1,0 +1,242 @@
+[
+  {
+    "option 3": "Regression Testing",
+    "option 4": "Sanity Testing",
+    "question": "Which is not part of system testing?",
+    "answer": 2,
+    "option 1": "Load Testing",
+    "option 2": "Unit Testing"
+  },
+  {
+    "option 3": "Boundary value testing",
+    "option 4": "Decision table testing",
+    "question": "Which is whitebox testing technique?",
+    "answer": 4,
+    "option 1": "Adhoc Testing",
+    "option 2": "Equivalent Partitioning"
+  },
+  {
+    "option 3": "Software Quality Assessment",
+    "option 4": "Software Quality Analysis",
+    "question": "What does SQA stand for?",
+    "answer": 1,
+    "option 1": "Software Quality Assurance",
+    "option 2": "Software Quality Application"
+  },
+  {
+    "option 3": "Design",
+    "option 4": "Requirements gathering",
+    "question": "In which phase of the SDLC is SQA most actively involved?",
+    "answer": 2,
+    "option 1": "Coding",
+    "option 2": "Testing"
+  },
+  {
+    "option 3": "Code review",
+    "option 4": "Walkthrough",
+    "question": "Which of the following is a dynamic testing method?",
+    "answer": 1,
+    "option 1": "Unit testing",
+    "option 2": "Inspection"
+  },
+  {
+    "option 3": "System testing",
+    "option 4": "Build testing",
+    "question": "Which of the following is NOT a level of testing?",
+    "answer": 4,
+    "option 1": "Unit testing",
+    "option 2": "Integration testing"
+  },
+  {
+    "option 3": "Code review",
+    "option 4": "Performance testing",
+    "question": "Which of the following is a static testing technique?",
+    "answer": 3,
+    "option 1": "System testing",
+    "option 2": "Usability testing"
+  },
+  {
+    "option 3": "A type of programming language",
+    "option 4": "A tool for version control",
+    "question": "What is a Software Quality Model?",
+    "answer": 2,
+    "option 1": "A method to develop software",
+    "option 2": "A framework to assess software quality"
+  },
+  {
+    "option 3": "Ensuring quality standards are met",
+    "option 4": "Managing the project",
+    "question": "What is the role of an SQA Engineer?",
+    "answer": 3,
+    "option 1": "Writing code",
+    "option 2": "Designing the UI"
+  },
+  {
+    "option 3": "Load testing",
+    "option 4": "Smoke testing",
+    "question": "Which type of testing is performed to determine system performance?",
+    "answer": 3,
+    "option 1": "Functional testing",
+    "option 2": "Regression testing"
+  },
+  {
+    "option 3": "Acceptance testing",
+    "option 4": "Regression testing",
+    "question": "Which testing is performed by end-users?",
+    "answer": 3,
+    "option 1": "Unit testing",
+    "option 2": "Integration testing"
+  },
+  {
+    "option 3": "Usability testing",
+    "option 4": "Load testing",
+    "question": "Which type of testing is focused on evaluating the usability of the software?",
+    "answer": 3,
+    "option 1": "Functional testing",
+    "option 2": "Security testing"
+  },
+  {
+    "option 3": "Defect reporting",
+    "option 4": "Requirements analysis",
+    "question": "What is the first step in the SQA process?",
+    "answer": 4,
+    "option 1": "Test execution",
+    "option 2": "Test planning"
+  },
+  {
+    "option 3": "Git",
+    "option 4": "Confluence",
+    "question": "Which tool is commonly used for automated testing?",
+    "answer": 2,
+    "option 1": "JIRA",
+    "option 2": "Selenium"
+  },
+  {
+    "option 3": "V-Model",
+    "option 4": "RAD",
+    "question": "Which SQA methodology focuses on continuous improvement?",
+    "answer": 2,
+    "option 1": "Waterfall",
+    "option 2": "Agile"
+  },
+  {
+    "option 3": "Integration Testing",
+    "option 4": "All of the above",
+    "question": "Which of the following is a type of testing?",
+    "answer": 4,
+    "option 1": "Unit Testing",
+    "option 2": "System Testing"
+  },
+  {
+    "option 3": "Performance Testing",
+    "option 4": "Regression Testing",
+    "question": "Which type of testing checks if the software meets the specified requirements?",
+    "answer": 1,
+    "option 1": "Functional Testing",
+    "option 2": "Non-Functional Testing"
+  },
+  {
+    "option 3": "Performance testing",
+    "option 4": "Security testing",
+    "question": "What is black box testing?",
+    "answer": 1,
+    "option 1": "A) Testing without knowledge of the internal workings",
+    "option 2": "B) Testing with access to the source code"
+  },
+  {
+    "option 3": "Non-functional testing",
+    "option 4": "User acceptance testing",
+    "question": "What is white box testing?",
+    "answer": 2,
+    "option 1": "Testing based on the requirements",
+    "option 2": "Testing with knowledge of the internal structure"
+  },
+  {
+    "option 3": "Verification is less formal than validation",
+    "option 4": "There is no difference",
+    "question": "What is the difference between verification and validation?",
+    "answer": 1,
+    "option 1": "Verification checks if the product meets specifications, validation checks if it meets user needs",
+    "option 2": "Verification is done by developers, validation by testers"
+  },
+  {
+    "option 3": "To test specific features",
+    "option 4": "To check performance",
+    "question": "What is the purpose of smoke testing?",
+    "answer": 1,
+    "option 1": "To check the basic functionality of an application",
+    "option 2": "To perform deep testing"
+  },
+  {
+    "option 3": "Automated testing",
+    "option 4": "Unit testing",
+    "question": "What is exploratory testing?",
+    "answer": 1,
+    "option 1": "Testing without a formal test plan",
+    "option 2": "Testing based on formal test scripts"
+  },
+  {
+    "option 3": "Testing the usability of a system",
+    "option 4": "Testing the compatibility of a system",
+    "question": "What is performance testing?",
+    "answer": 1,
+    "option 1": "Testing the speed, responsiveness, and stability of a system",
+    "option 2": "Testing the security features of a system"
+  },
+  {
+    "option 3": "Testing the performance of an application",
+    "option 4": "Stress testing",
+    "question": "What is load testing?",
+    "answer": 1,
+    "option 1": "Testing the system under expected load",
+    "option 2": "Testing the system's ability to recover from failure"
+  },
+  {
+    "option 3": "Regression Testing",
+    "option 4": "Stress Testing",
+    "question": "Which testing approach is most suitable for Agile development?",
+    "answer": 2,
+    "option 1": "Waterfall Testing",
+    "option 2": "Continuous Testing"
+  },
+  {
+    "option 3": "Testing done on production systems",
+    "option 4": "Testing that involves user interaction",
+    "question": "What is static testing?",
+    "answer": 1,
+    "option 1": "Testing without executing the code",
+    "option 2": "Testing by executing the code"
+  },
+  {
+    "option 3": "JIRA",
+    "option 4": "Jenkins",
+    "question": "Which tool can be used for performance testing?",
+    "answer": 1,
+    "option 1": "JMeter",
+    "option 2": "Selenium"
+  },
+  {
+    "option 3": "The process of executing test cases",
+    "option 4": "A method for reporting bugs",
+    "question": "What is a test strategy?",
+    "answer": 1,
+    "option 1": "A high-level document that outlines the testing approach",
+    "option 2": "A detailed plan for each test case"
+  },
+  {
+    "option 3": "A requirement for performance",
+    "option 4": "A defect found during testing",
+    "question": "What is an acceptance criterion?",
+    "answer": 1,
+    "option 1": "A condition that must be met for a user story to be accepted",
+    "option 2": " A test case that verifies functionality"
+  },
+  {
+    "option 3": "Avoiding low-risk areas in testing",
+    "option 4": "All of the above",
+    "question": "Which of the following is a risk-based testing technique?",
+    "answer": 1,
+    "option 1": "Prioritizing tests based on risk assessment",
+    "option 2": "Testing only high-priority features"
+  }
+]
